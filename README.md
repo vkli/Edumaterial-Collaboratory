@@ -7,3 +7,7 @@ So far: It's a chalkboard (can draw one continuous doodle, in one color).
 Eventually: It will be a collaborative web of chalkboards...
 
 Feel free to fork and contribute!
+
+# Demo and Tutorial
+
+https://youtu.be/0CErj2nTwrI
